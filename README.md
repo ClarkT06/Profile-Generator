@@ -11,6 +11,6 @@ To start the app run node index.js
 
 ## Demo:
 
-![](sample.gif)
+![](sample2.gif)
 
 Feel free to contact with any questions!
